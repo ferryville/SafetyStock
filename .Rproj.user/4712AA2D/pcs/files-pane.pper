@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/RailsProject/SafetyStock",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
